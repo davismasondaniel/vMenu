@@ -35,6 +35,254 @@ namespace vMenuClient.data
                     }
                 }
                 // Chameleon Colour Labels //
+                else if (label == "PEARL_ANODIZED_RED")
+                {
+                    AddTextEntry("PEARL_ANODIZED_RED", "Anodized Red Pearl");
+                }
+                else if (label == "PEARL_ANODIZED_WINE")
+                {
+                    AddTextEntry("PEARL_ANODIZED_WINE", "Anodized Wine Pearl");
+                }
+                else if (label == "PEARL_ANODIZED_PURPLE")
+                {
+                    AddTextEntry("PEARL_ANODIZED_PURPLE", "Anodized Purple Pearl");
+                }
+                else if (label == "PEARL_ANODIZED_BLUE")
+                {
+                    AddTextEntry("PEARL_ANODIZED_BLUE", "Anodized Blue Pearl");
+                }
+                else if (label == "PEARL_ANODIZED_GREEN")
+                {
+                    AddTextEntry("PEARL_ANODIZED_GREEN", "Anodized Green Pearl");
+                }
+                else if (label == "PEARL_ANODIZED_LIME")
+                {
+                    AddTextEntry("PEARL_ANODIZED_LIME", "Anodized Lime Pearl");
+                }
+                else if (label == "PEARL_ANODIZED_COPPER")
+                {
+                    AddTextEntry("PEARL_ANODIZED_COPPER", "Anodized Copper Pearl");
+                }
+                else if (label == "PEARL_ANODIZED_BRONZE")
+                {
+                    AddTextEntry("PEARL_ANODIZED_BRONZE", "Anodized Bronze Pearl");
+                }
+                else if (label == "PEARL_ANODIZED_CHAMPAGNE")
+                {
+                    AddTextEntry("PEARL_ANODIZED_CHAMPAGNE", "Anodized Champagne Pearl");
+                }
+                else if (label == "PEARL_ANODIZED_GOLD")
+                {
+                    AddTextEntry("PEARL_ANODIZED_GOLD", "Anodized Gold Pearl");
+                }
+                else if (label == "FLIP_GREEN_BLUE")
+                {
+                    AddTextEntry("FLIP_GREEN_BLUE", "Green/Blue Flip");
+                }
+                else if (label == "FLIP_GREEN_RED")
+                {
+                    AddTextEntry("FLIP_GREEN_RED", "Green/Red Flip");
+                }
+                else if (label == "FLIP_GREEN_BROWN")
+                {
+                    AddTextEntry("FLIP_GREEN_BROWN", "Green/Brown Flip");
+                }
+                else if (label == "FLIP_GREEN_TURQUOISE")
+                {
+                    AddTextEntry("FLIP_GREEN_TURQUOISE", "Green/Turquoise Flip");
+                }
+                else if (label == "FLIP_GREEN_PURPLE")
+                {
+                    AddTextEntry("FLIP_GREEN_PURPLE", "Green/Purple Flip");
+                }
+                else if (label == "FLIP_TEAL_PURPLE")
+                {
+                    AddTextEntry("FLIP_TEAL_PURPLE", "Teal/Purple Flip");
+                }
+                else if (label == "FLIP_TURQUOISE_RED")
+                {
+                    AddTextEntry("FLIP_TURQUOISE_RED", "Turquoise/Red Flip");
+                }
+                else if (label == "FLIP_TURQUOISE_PURPLE")
+                {
+                    AddTextEntry("FLIP_TURQUOISE_PURPLE", "Turquoise/Purple Flip");
+                }
+                else if (label == "FLIP_CYAN_PURPLE")
+                {
+                    AddTextEntry("FLIP_CYAN_PURPLE", "Cyan/Purple Flip");
+                }
+                else if (label == "FLIP_BLUE_PINK")
+                {
+                    AddTextEntry("FLIP_BLUE_PINK", "Blue/Pink Flip");
+                }
+                else if (label == "FLIP_BLUE_GREEN")
+                {
+                    AddTextEntry("FLIP_BLUE_GREEN", "Blue/Green Flip");
+                }
+                else if (label == "FLIP_PURPLE_RED")
+                {
+                    AddTextEntry("FLIP_PURPLE_RED", "Purple/Red Flip");
+                }
+                else if (label == "FLIP_PURPLE_GREEN")
+                {
+                    AddTextEntry("FLIP_PURPLE_GREEN", "Purple/Green Flip");
+                }
+                else if (label == "FLIP_MAGENTA_GREEN")
+                {
+                    AddTextEntry("FLIP_MAGENTA_GREEN", "Magenta/Green Flip");
+                }
+                else if (label == "FLIP_MAGENTA_YELLOW")
+                {
+                    AddTextEntry("FLIP_MAGENTA_YELLOW", "Magenta/Yellow Flip");
+                }
+                else if (label == "FLIP_BURGUNDY_GREEN")
+                {
+                    AddTextEntry("FLIP_BURGUNDY_GREEN", "Burgundy/Green Flip");
+                }
+                else if (label == "FLIP_MAGENTA_CYAN")
+                {
+                    AddTextEntry("FLIP_MAGENTA_CYAN", "Magenta/Cyan Flip");
+                }
+                else if (label == "FLIP_COPPER_PURPLE")
+                {
+                    AddTextEntry("FLIP_COPPER_PURPLE", "Copper/Purple Flip");
+                }
+                else if (label == "FLIP_MAGENTA_ORANGE")
+                {
+                    AddTextEntry("FLIP_MAGENTA_ORANGE", "Magenta/Orange Flip");
+                }
+                else if (label == "FLIP_RED_ORANGE")
+                {
+                    AddTextEntry("FLIP_RED_ORANGE", "Red/Orange Flip");
+                }
+                else if (label == "FLIP_ORANGE_PURPLE")
+                {
+                    AddTextEntry("FLIP_ORANGE_PURPLE", "Orange/Purple Flip");
+                }
+                else if (label == "FLIP_ORANGE_BLUE")
+                {
+                    AddTextEntry("FLIP_ORANGE_BLUE", "Orange/Blue Flip");
+                }
+                else if (label == "FLIP_WHITE_PURPLE")
+                {
+                    AddTextEntry("FLIP_WHITE_PURPLE", "White/Purple Flip");
+                }
+                else if (label == "FLIP_RED_RAINBOW")
+                {
+                    AddTextEntry("FLIP_RED_RAINBOW", "Red/Rainbow Flip");
+                }
+                else if (label == "FLIP_BLUE_RAINBOW")
+                {
+                    AddTextEntry("FLIP_BLUE_RAINBOW", "Blue/Rainbow Flip");
+                }
+                else if (label == "PEARL_DARK_GREEN")
+                {
+                    AddTextEntry("PEARL_DARK_GREEN", "Dark Green Pearl");
+                }
+                else if (label == "PEARL_DARK_TEAL")
+                {
+                    AddTextEntry("PEARL_DARK_TEAL", "Dark Teal Pearl");
+                }
+                else if (label == "PEARL_DARK_BLUE")
+                {
+                    AddTextEntry("PEARL_DARK_BLUE", "Dark Blue Pearl");
+                }
+                else if (label == "PEARL_DARK_PURPLE")
+                {
+                    AddTextEntry("PEARL_DARK_PURPLE", "Dark Purple Pearl");
+                }
+                else if (label == "PEARL_OIL_SLICK")
+                {
+                    AddTextEntry("PEARL_OIL_SLICK", "Oil Slick Pearl");
+                }
+                else if (label == "PEARL_LIGHT_GREEN")
+                {
+                    AddTextEntry("PEARL_LIGHT_GREEN", "Light Green Pearl");
+                }
+                else if (label == "PEARL_LIGHT_BLUE")
+                {
+                    AddTextEntry("PEARL_LIGHT_BLUE", "Light Blue Pearl");
+                }
+                else if (label == "PEARL_LIGHT_PURPLE")
+                {
+                    AddTextEntry("PEARL_LIGHT_PURPLE", "Light Purple Pearl");
+                }
+                else if (label == "PEARL_LIGHT_PINK")
+                {
+                    AddTextEntry("PEARL_LIGHT_PINK", "Light Pink Pearl");
+                }
+                else if (label == "PEARL_OFF_WHITE")
+                {
+                    AddTextEntry("PEARL_OFF_WHITE", "Off White Pearl");
+                }
+                else if (label == "PEARL_CUTE_PINK")
+                {
+                    AddTextEntry("PEARL_CUTE_PINK", "Cute Pink Pearl");
+                }
+                else if (label == "PEARL_BABY_YELLOW")
+                {
+                    AddTextEntry("PEARL_BABY_YELLOW", "Baby Yellow Pearl");
+                }
+                else if (label == "PEARL_BABY_GREEN")
+                {
+                    AddTextEntry("PEARL_BABY_GREEN", "Baby Green Pearl");
+                }
+                else if (label == "PEARL_BABY_BLUE")
+                {
+                    AddTextEntry("PEARL_BABY_BLUE", "Baby Blue Pearl");
+                }
+                else if (label == "PEARL_CREAM")
+                {
+                    AddTextEntry("PEARL_CREAM", "Cream Pearl");
+                }
+                else if (label == "PEARL_WHITE_PRISMATIC")
+                {
+                    AddTextEntry("PEARL_WHITE_PRISMATIC", "White Prismatic Pearl");
+                }
+                else if (label == "PEARL_GRAPHITE_PRISMATIC")
+                {
+                    AddTextEntry("PEARL_GRAPHITE_PRISMATIC", "Graphite Prismatic Pearl");
+                }
+                else if (label == "PEARL_BLUE_PRISMATIC")
+                {
+                    AddTextEntry("PEARL_BLUE_PRISMATIC", "Blue Prismatic Pearl");
+                }
+                else if (label == "PEARL_PURPLE_PRISMATIC")
+                {
+                    AddTextEntry("PEARL_PURPLE_PRISMATIC", "Purple Prismatic Pearl");
+                }
+                else if (label == "PEARL_HOT_PINK_PRISMATIC")
+                {
+                    AddTextEntry("PEARL_HOT_PINK_PRISMATIC", "Hot Pink Prismatic Pearl");
+                }
+                else if (label == "PEARL_RED_PRISMATIC")
+                {
+                    AddTextEntry("PEARL_RED_PRISMATIC", "Red Prismatic Pearl");
+                }
+                else if (label == "PEARL_GREEN_PRISMATIC")
+                {
+                    AddTextEntry("PEARL_GREEN_PRISMATIC", "Green Prismatic Pearl");
+                }
+                else if (label == "PEARL_BLACK_PRISMATIC")
+                {
+                    AddTextEntry("PEARL_BLACK_PRISMATIC", "Black Prismatic Pearl");
+                }
+                else if (label == "PEARL_OIL_SPILL_PRISMATIC")
+                {
+                    AddTextEntry("PEARL_OIL_SPILL_PRISMATIC", "Oil Spill Prismatic Pearl");
+                }
+                else if (label == "PEARL_RAINBOW_PRISMATIC")
+                {
+                    AddTextEntry("PEARL_RAINBOW_PRISMATIC", "Rainbow Prismatic Pearl");
+                }
+                else if (label == "PEARL_BLACK_HOLOGRAPHIC")
+                {
+                    AddTextEntry("PEARL_BLACK_HOLOGRAPHIC", "Black Holographic Pearl");
+                }
+                else if (label == "PEARL_WHITE_HOLOGRAPHIC")
+                {
+                    AddTextEntry("PEARL_WHITE_HOLOGRAPHIC", "White Holographic Pearl");
+                }
                 else if (label == "G9_PAINT01")
                 {
                     AddTextEntry("G9_PAINT01", "Monochrome");
@@ -98,6 +346,22 @@ namespace vMenuClient.data
                 else if (label == "G9_PAINT16")
                 {
                     AddTextEntry("G9_PAINT16", "Temperature");
+                }
+                else if (label == "G9_PAINT17")
+                {
+                    AddTextEntry("G9_PAINT17", "HSW Badge");
+                }
+                else if (label == "G9_PAINT18")
+                {
+                    AddTextEntry("G9_PAINT18", "Anod. Lightning");
+                }
+                else if (label == "G9_PAINT19")
+                {
+                    AddTextEntry("G9_PAINT19", "Emeralds");
+                }
+                else if (label == "G9_PAINT20")
+                {
+                    AddTextEntry("G9_PAINT20", "Fubuki Castle");
                 }
 
                 this.label = label;
@@ -323,23 +587,89 @@ namespace vMenuClient.data
         };
 
         public static readonly List<VehicleColor> ChameleonColors = new()
-        {
-            new VehicleColor(223, "G9_PAINT01"),
-            new VehicleColor(224, "G9_PAINT02"),
-            new VehicleColor(225, "G9_PAINT03"),
-            new VehicleColor(226, "G9_PAINT04"),
-            new VehicleColor(227, "G9_PAINT05"),
-            new VehicleColor(228, "G9_PAINT06"),
-            new VehicleColor(229, "G9_PAINT07"),
-            new VehicleColor(230, "G9_PAINT08"),
-            new VehicleColor(231, "G9_PAINT09"),
-            new VehicleColor(232, "G9_PAINT10"),
-            new VehicleColor(233, "G9_PAINT11"),
-            new VehicleColor(234, "G9_PAINT12"),
-            new VehicleColor(235, "G9_PAINT13"),
-            new VehicleColor(236, "G9_PAINT14"),
-            new VehicleColor(237, "G9_PAINT15"),
-            new VehicleColor(238, "G9_PAINT16"),
+{
+              new VehicleColor(161, "PEARL_ANODIZED_RED"),
+              new VehicleColor(162, "PEARL_ANODIZED_WINE"),
+              new VehicleColor(163, "PEARL_ANODIZED_PURPLE"),
+              new VehicleColor(164, "PEARL_ANODIZED_BLUE"),
+              new VehicleColor(165, "PEARL_ANODIZED_GREEN"),
+              new VehicleColor(166, "PEARL_ANODIZED_LIME"),
+              new VehicleColor(167, "PEARL_ANODIZED_COPPER"),
+              new VehicleColor(168, "PEARL_ANODIZED_BRONZE"),
+              new VehicleColor(169, "PEARL_ANODIZED_CHAMPAGNE"),
+              new VehicleColor(170, "PEARL_ANODIZED_GOLD"),
+              new VehicleColor(171, "FLIP_GREEN_BLUE"),
+              new VehicleColor(172, "FLIP_GREEN_RED"),
+              new VehicleColor(173, "FLIP_GREEN_BROWN"),
+              new VehicleColor(174, "FLIP_GREEN_TURQUOISE"),
+              new VehicleColor(175, "FLIP_GREEN_PURPLE"),
+              new VehicleColor(176, "FLIP_TEAL_PURPLE"),
+              new VehicleColor(177, "FLIP_TURQUOISE_RED"),
+              new VehicleColor(178, "FLIP_TURQUOISE_PURPLE"),
+              new VehicleColor(179, "FLIP_CYAN_PURPLE"),
+              new VehicleColor(180, "FLIP_BLUE_PINK"),
+              new VehicleColor(181, "FLIP_BLUE_GREEN"),
+              new VehicleColor(182, "FLIP_PURPLE_RED"),
+              new VehicleColor(183, "FLIP_PURPLE_GREEN"),
+              new VehicleColor(184, "FLIP_MAGENTA_GREEN"),
+              new VehicleColor(185, "FLIP_MAGENTA_YELLOW"),
+              new VehicleColor(186, "FLIP_BURGUNDY_GREEN"),
+              new VehicleColor(187, "FLIP_MAGENTA_CYAN"),
+              new VehicleColor(188, "FLIP_COPPER_PURPLE"),
+              new VehicleColor(189, "FLIP_MAGENTA_ORANGE"),
+              new VehicleColor(190, "FLIP_RED_ORANGE"),
+              new VehicleColor(191, "FLIP_ORANGE_PURPLE"),
+              new VehicleColor(192, "FLIP_ORANGE_BLUE"),
+              new VehicleColor(193, "FLIP_WHITE_PURPLE"),
+              new VehicleColor(194, "FLIP_RED_RAINBOW"),
+              new VehicleColor(195, "FLIP_BLUE_RAINBOW"),
+              new VehicleColor(196, "PEARL_DARK_GREEN"),
+              new VehicleColor(197, "PEARL_DARK_TEAL"),
+              new VehicleColor(198, "PEARL_DARK_BLUE"),
+              new VehicleColor(199, "PEARL_DARK_PURPLE"),
+              new VehicleColor(200, "PEARL_OIL_SLICK"),
+              new VehicleColor(201, "PEARL_LIGHT_GREEN"),
+              new VehicleColor(202, "PEARL_LIGHT_BLUE"),
+              new VehicleColor(203, "PEARL_LIGHT_PURPLE"),
+              new VehicleColor(204, "PEARL_LIGHT_PINK"),
+              new VehicleColor(205, "PEARL_OFF_WHITE"),
+              new VehicleColor(206, "PEARL_CUTE_PINK"),
+              new VehicleColor(207, "PEARL_BABY_YELLOW"),
+              new VehicleColor(208, "PEARL_BABY_GREEN"),
+              new VehicleColor(209, "PEARL_BABY_BLUE"),
+              new VehicleColor(210, "PEARL_CREAM"),
+              new VehicleColor(211, "PEARL_WHITE_PRISMATIC"),
+              new VehicleColor(212, "PEARL_GRAPHITE_PRISMATIC"),
+              new VehicleColor(213, "PEARL_BLUE_PRISMATIC"),
+              new VehicleColor(214, "PEARL_PURPLE_PRISMATIC"),
+              new VehicleColor(215, "PEARL_HOT_PINK_PRISMATIC"),
+              new VehicleColor(216, "PEARL_RED_PRISMATIC"),
+              new VehicleColor(217, "PEARL_GREEN_PRISMATIC"),
+              new VehicleColor(218, "PEARL_BLACK_PRISMATIC"),
+              new VehicleColor(219, "PEARL_OIL_SPILL_PRISMATIC"),
+              new VehicleColor(220, "PEARL_RAINBOW_PRISMATIC"),
+              new VehicleColor(221, "PEARL_BLACK_HOLOGRAPHIC"),
+              new VehicleColor(222, "PEARL_WHITE_HOLOGRAPHIC"),
+              new VehicleColor(223, "G9_PAINT01"),
+              new VehicleColor(224, "G9_PAINT02"),
+              new VehicleColor(225, "G9_PAINT03"),
+              new VehicleColor(226, "G9_PAINT04"),
+              new VehicleColor(227, "G9_PAINT05"),
+              new VehicleColor(228, "G9_PAINT06"),
+              new VehicleColor(229, "G9_PAINT07"),
+              new VehicleColor(230, "G9_PAINT08"),
+              new VehicleColor(231, "G9_PAINT09"),
+              new VehicleColor(232, "G9_PAINT10"),
+              new VehicleColor(233, "G9_PAINT11"),
+              new VehicleColor(234, "G9_PAINT12"),
+              new VehicleColor(235, "G9_PAINT13"),
+              new VehicleColor(236, "G9_PAINT14"),       
+              new VehicleColor(237, "G9_PAINT15"),
+              new VehicleColor(238, "G9_PAINT16"),
+              new VehicleColor(239, "G9_PAINT17"),
+              new VehicleColor(240, "G9_PAINT18"),
+              new VehicleColor(241, "G9_PAINT19"),
+              new VehicleColor(242, "G9_PAINT20"),
         };
 
         public static readonly List<int[]> NeonLightColors = new()
